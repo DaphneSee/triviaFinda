@@ -1,0 +1,38 @@
+  .centreText {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 150px;
+  }
+  .getQuizButton{
+    font-size: 150px;
+    Width: 200;
+  }
+  .QuizHeader{
+    align-content: center;
+  }
+  .resultsTable{
+    border-collapse: collapse;
+    width: 100%;
+    padding: 10px;
+  }
+  .resultsTable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+  }
+  .resultsTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+  }
+  .resultsTable .quesHeader{
+  text-align:left;
+  }
+
+  tr:nth-child(even) {background-color: #f2f2f2;}
